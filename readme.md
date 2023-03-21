@@ -1,4 +1,4 @@
 ```mermaid
 flowchart LR
-   A A -- text --> B B -- text2 --> C C
+     A [Terraform Auto Versioning] --> B[Terraform 13 Rapid] --> C[Terraform 1.0]
 ```
